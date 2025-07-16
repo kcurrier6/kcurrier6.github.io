@@ -442,7 +442,7 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
-			height: 400px;
+			height: 320px;
 			overflow: hidden;
 			border-radius: 5px;
 		}
